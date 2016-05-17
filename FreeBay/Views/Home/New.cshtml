@@ -1,0 +1,33 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container" style="margin-top: 40px;">
+        <form method="POST" action="/home/add">
+            <div class="row">
+                <div class="col-md-6">
+                    <input type="text" name="name" placeholder="Name" class="form-control"/>
+                </div>
+                <div class="col-md-6">
+                    <input type="text" name="phone" placeholder="Phone Number" class="form-control"/>
+                </div>
+            </div>
+            <div class="row" style="margin-top: 10px;">
+                <div class="col-md-12">
+                    <textarea class="form-control" name="description" rows="20"></textarea>
+                </div>
+            </div>
+            <button class="btn btn-primary btn-block" style="margin-top: 10px;">Submit</button>
+        </form>
+    </div>
+</body>
+</html>

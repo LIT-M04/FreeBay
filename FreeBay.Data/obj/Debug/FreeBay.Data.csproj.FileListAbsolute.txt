@@ -1,0 +1,5 @@
+c:\Users\alexfriedman\documents\visual studio 2013\Projects\FreeBay\FreeBay.Data\bin\Debug\FreeBay.Data.dll
+c:\Users\alexfriedman\documents\visual studio 2013\Projects\FreeBay\FreeBay.Data\bin\Debug\FreeBay.Data.pdb
+c:\Users\alexfriedman\documents\visual studio 2013\Projects\FreeBay\FreeBay.Data\obj\Debug\FreeBay.Data.csprojResolveAssemblyReference.cache
+c:\Users\alexfriedman\documents\visual studio 2013\Projects\FreeBay\FreeBay.Data\obj\Debug\FreeBay.Data.dll
+c:\Users\alexfriedman\documents\visual studio 2013\Projects\FreeBay\FreeBay.Data\obj\Debug\FreeBay.Data.pdb
